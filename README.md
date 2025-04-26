@@ -1,5 +1,9 @@
 # EX-11-EMI-CALCULATOR
 
+NAME : MOHAMED NIZAMUDDIN A
+
+REG NO : 212224040194
+
 ## AIM
 
 To write a program to prepare EMI calculator using function without return type and with arguments.
